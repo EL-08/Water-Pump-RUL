@@ -49,19 +49,6 @@ The script will:
 
 ## Code Structure
 
-```
-water_pump_algorithm_project
-│
-├── data/
-│   └── rul_hrs.csv
-│
-└── src/
-    ├── main.py
-    ├── segmentation.py
-    ├── clustering.py
-    └── kadane.py
-```
-
 ### main.py
 Controls the whole pipeline:
 - loads dataset
